@@ -1,0 +1,40 @@
+Fatura Nº: 1
+Cliente: Ana
+Data: 2024-01-01
+Número de Contribuinte: 1234
+Produtos:
+  Código: PA123, Nome: Carne Vaca, Descrição: Carne de bovino fresca, Quantidade: 2, Valor Unitário: 10.5
+  Código: PA124, Nome: Peixe Congelado, Descrição: Peixe congelado de alta qualidade, Quantidade: 5, Valor Unitário: 8.75
+Valor Total Sem IVA: 64.75
+Valor Total Com IVA: 72.32575
+--------------------------------------------------
+Fatura Nº: 2
+Cliente: Bruno
+Data: 2024-01-05
+Número de Contribuinte: 5678
+Produtos:
+  Código: PF321, Nome: Creme Facial, Descrição: Hidratante para a pele, Quantidade: 3, Valor Unitário: 12.5
+  Código: PF322, Nome: Medicamento, Descrição: Medicamento com prescrição, Quantidade: 1, Valor Unitário: 25.0
+Valor Total Sem IVA: 62.5
+Valor Total Com IVA: 72.375
+--------------------------------------------------
+Fatura Nº: 3
+Cliente: Carla
+Data: 2024-01-10
+Número de Contribuinte: 9012
+Produtos:
+  Código: PA125, Nome: Frutas Secas, Descrição: Frutas secas para lanche, Quantidade: 10, Valor Unitário: 5.6
+  Código: PA126, Nome: Queijo Fresco, Descrição: Queijo fresco artesanal, Quantidade: 6, Valor Unitário: 7.8
+Valor Total Sem IVA: 102.8
+Valor Total Com IVA: 106.68799999999999
+--------------------------------------------------
+Fatura Nº: 4
+Cliente: Ana
+Data: 2024-01-15
+Número de Contribuinte: 1234
+Produtos:
+  Código: PF323, Nome: Shampoo, Descrição: Shampoo antiqueda, Quantidade: 4, Valor Unitário: 15.0
+  Código: PF324, Nome: Remédio Controlado, Descrição: Medicamento com receita, Quantidade: 1, Valor Unitário: 40.0
+Valor Total Sem IVA: 100.0
+Valor Total Com IVA: 116.19999999999999
+--------------------------------------------------

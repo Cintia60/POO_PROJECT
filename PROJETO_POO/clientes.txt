@@ -1,0 +1,21 @@
+# Clientes
+Ana;Continente;1234
+Bruno;Madeira;5678
+Carla;Açores;9012
+
+# Faturas
+1;2024-01-01;1234
+PA123;Carne Vaca;bovino fresca;Alimentar;10.50;2;congelados;true;ISO22000,FSSC22000
+PA124;Peixe Congelado;alta qualidade;Alimentar;8.75;5;congelados;true;null
+
+2;2024-01-05;5678
+PF321;Creme Facial;Hidratante para a pele;Farmácia;12.50;3;Beleza;false;null
+PF322;Medicamento;Medicamento com prescrição;Farmácia;25.00;1;null;true;Dr. Silva
+
+3;2024-01-10;9012
+PA125;Frutas Secas;Frutas secas para lanche;Alimentar;5.60;10;null;true;ISO22000
+PA126;Queijo Fresco;Queijo fresco artesanal;Alimentar;7.80;6;null;false;null
+
+4;2024-01-15;1234
+PF323;Shampoo;Shampoo antiqueda;Farmácia;15.00;4;Bem-estar;false;null
+PF324;Remédio Controlado;Medicamento receita;Farmácia;40.00;1;null;true;Dr. Costa
